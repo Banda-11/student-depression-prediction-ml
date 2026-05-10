@@ -18,7 +18,7 @@ The models achieved high accuracy, as shown in the evaluation below:
 
 ![Confusion Matrix and Accuracy](./images/results.png)
 
-### 🚀 How to use
+### 🚀 How to use [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Banda-11/student-depression-prediction-ml/blob/main/student_depression_prediction.ipynb)
 1. Clone this repository.
 2. Install dependencies: `pip install pandas scikit-learn seaborn matplotlib`.
 3. Open `student_depression_prediction.ipynb` in Google Colab or Jupyter.
